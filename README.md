@@ -18,10 +18,11 @@ Exploratory Data Analysis
 
 creating models for the prediction
 
-Technologies used
-forthebadge
+# Technologies used
 
-forthebadge
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) 
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 
 Pandas
 Numpy
